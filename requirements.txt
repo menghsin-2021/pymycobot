@@ -1,4 +1,5 @@
 pyserial
+pymycobot
 pytest
 flake8
 opencv-python 
